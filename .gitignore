@@ -50,6 +50,9 @@ typings/
 # Optional npm cache directory
 .npm
 
+# Deno stuff
+.deno
+
 # Optional eslint cache
 .eslintcache
 
